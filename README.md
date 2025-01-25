@@ -1,6 +1,6 @@
 ﻿# Person-Detector
 
- Here's a description of the code we just implemented for person detection using the MobileNet SSD model:
+
 
 ### Purpose
 The goal of the code is to load an image, use a pre-trained MobileNet SSD model to detect people (or other objects), and display the image with bounding boxes around the detected persons. The MobileNet SSD model was trained to recognize multiple object classes (e.g., cars, bicycles, persons) from an image.
